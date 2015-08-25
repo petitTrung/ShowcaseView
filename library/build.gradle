@@ -44,5 +44,3 @@ android {
         minSdkVersion Integer.parseInt(MIN_SDK_LIBRARY)
     }
 }
-
-apply from: 'gradle-mvn-push.gradle'
